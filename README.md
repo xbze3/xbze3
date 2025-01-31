@@ -43,7 +43,7 @@ I'm an indie full-stack developer and current university student pursuing a degr
   <img width="600" src="https://github-readme-stats.vercel.app/api?username=xbze3&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF&rank_icon=github" />
 </p>
 
-
+#
 <!---
 xbze3/xbze3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
