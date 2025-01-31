@@ -18,6 +18,7 @@ I'm an indie full-stack developer and current university student pursuing a degr
 
 #
 
+<p align="center">
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -36,6 +37,7 @@ I'm an indie full-stack developer and current university student pursuing a degr
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
 <br />
+</p>
 
 #
 
