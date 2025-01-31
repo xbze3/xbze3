@@ -11,6 +11,11 @@ I'm an indie full-stack developer and current university student pursuing a degr
     <img alt="Views" title="Views" src="https://komarev.com/ghpvc/?username=xbze3&style=for-the-badge&color=00000F"/>
 <p/>
 
+<p align="center"> 
+
+![Landing Image](https://wallpaperaccess.com/full/3289.jpg)
+</p>
+
 <!---
 xbze3/xbze3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
