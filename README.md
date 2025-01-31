@@ -36,7 +36,10 @@ I'm an indie full-stack developer and current university student pursuing a degr
 <br />
 
 #
-  
+
+![xb's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbze3&show_icons=true&theme=gruvbox)
+
+
 <!---
 xbze3/xbze3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
