@@ -1,6 +1,6 @@
 # 🧑‍💻 xbxe3
 
-** `Digital Nomad (Developer/Pen-Tester)` **
+**`Digital Nomad (Developer/Pen-Tester)`**
 
 I'm an indie full-stack developer and current university student pursuing a degree in Computer Science. All full-stack coding projects are built from the ground up, from planning and designing, all the way to solving real-life problems with code. I also enjoy Penetration Testing and Ethical Hacking from time to time.
 
