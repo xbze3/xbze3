@@ -3,7 +3,7 @@
 ![Landing Image](https://wallpaperaccess.com/full/3289.jpg)
 </p>
 
-# 🧑‍💻 xbxe3
+# 🧑‍💻 xbze3
 
 **`Digital Nomad (Developer/Pen-Tester)`**
 
