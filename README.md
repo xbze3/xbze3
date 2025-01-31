@@ -16,6 +16,8 @@ I'm an indie full-stack developer and current university student pursuing a degr
     <img alt="Views" title="Views" src="https://komarev.com/ghpvc/?username=xbze3&style=for-the-badge&color=00000F"/>
 <p/>
 
+#
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
