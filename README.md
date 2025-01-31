@@ -45,7 +45,7 @@ I'm an indie full-stack developer and current university student pursuing a degr
 #
 
 <p align="center">
-  <img width="600" src="https://github-readme-stats.vercel.app/api?username=xbze3&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF&rank_icon=github" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=xbze3&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF&rank_icon=github" />
 </p>
 
 #
