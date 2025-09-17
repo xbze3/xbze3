@@ -46,7 +46,7 @@ I'm an indie developer and current university student pursuing a degree in Compu
 <br />
 
 <p align="center">
-  [![Ezra's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbze3)](https://github.com/anuraghazra/github-readme-stats)
+  [![Ezra's GitHub stats](https://github-readme-stats.vercel.app/api?username=xb)](https://github.com/anuraghazra/github-readme-stats)
   
   <img width="500" src="https://github-readme-stats.vercel.app/api?username=xbze3&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF&rank_icon=github" />
 </p>
