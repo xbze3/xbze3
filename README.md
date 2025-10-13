@@ -5,9 +5,9 @@
 
 # 🧑‍💻 xbze3
 
-**`I like all things Computers (Developer/Pen-Tester)`**
+**`I build what I wish existed`**
 
-I'm an indie developer and current university student pursuing a degree in Computer Science. I enjoy Penetration Testing and Ethical Hacking from time to time. Currently, I am focused on learning more about low-level systems and how certain machine processes work under the hood. To see what I'm up to in that regard, you can take a look at my [Low-Level](https://github.com/xbze3/Low-Level) repository.
+
 
 #
 <br />
