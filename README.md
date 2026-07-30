@@ -38,8 +38,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ezranminty@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-000000?style=flat-square&logo=mail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ezra-minty"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ezranminty@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-000000?style=for-the-badge&logo=mail&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ezra-minty"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -48,12 +49,11 @@
 
 ## `> whoami`
 
-Backend-first, systems thinker, kind of obsessed with how things work under the hood.
-I care about performance, reliability, and clean architecture, and I'll probably refactor it twice before shipping.
+I'm a backend and systems guy at heart, I like knowing exactly how something works before I trust it in production.
 
-CS student in Guyana. I build AI-enabled backends during the day and ship side projects at night, everything from exam prep platforms to a working stock exchange simulator.
+CS student in Guyana. Outside of class I build my own stuff, an exam prep platform, a stock exchange simulator, an AI agent with its own memory, whatever I'm curious about that month.
 
-I build for scale, design for intent, ship when it's right.
+Performance and clean architecture matter to me more than most people would like, so expect a refactor or two before anything ships.
 
 <br/>
 
@@ -86,6 +86,8 @@ always:
       </p>
       <p><code>Python</code> <code>FastAPI</code> <code>Pandas</code> <code>Docker</code> <code>LLM Agents</code></p>
       <a href="https://financegy.app">financegy.app →</a>
+      <br/>
+      <br/>
     </td>
     <td width="50%" valign="top">
       <h3>📚 PrepLab</h3>
@@ -107,6 +109,7 @@ always:
         <img src="https://custom-icon-badges.demolab.com/badge/-durable%20event%20logging-111111?style=flat-square"/>
       </p>
       <p><code>C++</code> <code>STL</code> <code>Crow</code> <code>Boost/Asio</code> <code>WebSockets</code></p>
+      <br/>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 ACE (Autonomous Cognitive Engine)</h3>
@@ -160,10 +163,10 @@ always:
 
 ## `> cat github-stats.log`
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=xbze3&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF0000&icon_color=FF0000&text_color=ffffff"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xbze3&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF0000&text_color=ffffff"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xbze3&theme=dark&hide_border=true&background=0d0d0d&ring=FF0000&fire=FF0000&currStreakLabel=FF0000"/>
