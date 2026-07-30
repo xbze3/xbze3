@@ -187,6 +187,4 @@ Technical writer on **dev.to** and **Medium**, 1,500+ combined reads on AI, data
 [...]  the rest is classified
 ```
 
-<br/>
-
 <!-- if you're reading the source, you're already one of us. -->
